@@ -1,4 +1,4 @@
-# CriminalDetection
+# Criminal Face Detection
 
 This Project is made by TRAN DAI VIET HUNG - student from Sejong University, Seoul, South Korea.
 * Please don't use this project for business or the other purpose except for education
