@@ -8,9 +8,9 @@
 using namespace cv;
 using namespace std;
 
-string path_list = "/Users/hungtran/Desktop/C++Project/OpenCV/Data/Criminal_Data/Criminal_Name_List.txt";
+string path_list = "your_criminal_name_list_txt_file"; 
 
-string path_face = "/Users/hungtran/Desktop/C++Project/OpenCV/Data/Criminal_Data/FaceData";
+string path_face = "path_to_face_data";
 
 void FaceDataCapture(VideoCapture camera_access, CascadeClassifier& face_cascade, string criminal_name) {
     namedWindow("Camera Feed", WINDOW_AUTOSIZE);
