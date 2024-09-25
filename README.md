@@ -4,7 +4,7 @@ This Project is made by TRAN DAI VIET HUNG - student from Sejong University, Seo
 * Please don't use this project for business or the other purpose except for education
 
 Introduction: 
-The Program is the criminial detection as it use face data which has been trained to recognize the facial expression of the criminal. It collects data by taking 10 potrait photos in 100x100 scale and grayscale and store it the local folder. The data will use the OpenCV library to training. 
+The Program is the criminial detection as it uses faces data which have been trained to recognize the facial expression of the criminal. It collects data by taking 10 potrait photos in 100x100 grayscale and store it in the local folder. The data will use the OpenCV library to training. 
 
 How to use:
 1. In the main.cpp please add your name_list.txt path and face_data folder path so the program can write the name to txt file and save and take the data from face data folder
